@@ -9,12 +9,3 @@ Welcome to the Text Editor PWA project! This is a browser-based text editor that
 - **PWA Features**: Installable on desktops and mobile devices.
 - **Service Worker**: Pre-caches static assets for faster loading.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
