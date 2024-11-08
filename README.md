@@ -1,5 +1,4 @@
 # text-editor
-# Text Editor PWA
 
 Welcome to the Text Editor PWA project! This is a browser-based text editor that allows you to create and store notes or code snippets, even when offline. The application utilizes Progressive Web App (PWA) capabilities and IndexedDB for data persistence.
 
@@ -9,6 +8,4 @@ Welcome to the Text Editor PWA project! This is a browser-based text editor that
 - **Data Persistence**: Content is saved in IndexedDB, ensuring redundancy.
 - **PWA Features**: Installable on desktops and mobile devices.
 - **Service Worker**: Pre-caches static assets for faster loading.
-
-
 
